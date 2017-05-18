@@ -1,0 +1,9 @@
+md-toolbar md-icon.md-default-theme {
+    color: white;
+}
+
+body {
+    font-family: 'Roboto+Mono', serif;
+    font-size: 100px;
+    background-image: url("../img/maxresdefault.jpg");
+}
