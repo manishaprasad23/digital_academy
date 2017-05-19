@@ -2,8 +2,15 @@ md-toolbar md-icon.md-default-theme {
     color: white;
 }
 
+.bckgrndimage {
+    background-image: url("../img/maxresdefault.jpg");
+}
+
+.aboutus {
+    background-color: "grey";
+}
+
 body {
     font-family: 'Roboto+Mono', serif;
-    font-size: 100px;
-    background-image: url("../img/maxresdefault.jpg");
+    font-size: 20px;
 }
