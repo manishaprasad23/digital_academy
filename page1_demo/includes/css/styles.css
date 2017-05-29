@@ -62,6 +62,16 @@ ul.unstyled {
     height: 30px;
 }
 
+.glyphc {
+    font-size: 50px;
+    color: yellow;
+}
+
+.glyphcol {
+    font-size: 50px;
+    color: red;
+}
+
 
 /* --------------------------------------
    Carousel
@@ -84,15 +94,15 @@ ul.unstyled {
 }
 
 #slide1 {
-    background: url(../../images/c1.jpg) top center no-repeat;
+    background: url(../../images/ca1.jpg) top center no-repeat;
 }
 
 #slide2 {
-    background: url(../../images/carousel3.jpg) top center no-repeat;
+    background: url(../../images/ca3.jpg) top center no-repeat;
 }
 
 #slide3 {
-    background: url(../../images/carousel2.jpg) top center no-repeat;
+    background: url(../../images/ca4.png) top center no-repeat;
 }
 
 
@@ -173,13 +183,13 @@ ul.unstyled {
         height: 310px;
     }
     #slide1 {
-        background: url(../../images/c1-md.jpg) top center no-repeat;
+        background: url(../../images/ca1-md.jpg) top center no-repeat;
     }
     #slide2 {
-        background: url(../../images/carousel3-md.jpg) top center no-repeat;
+        background: url(../../images/ca3-md.jpg) top center no-repeat;
     }
     #slide3 {
-        background: url(../../images/carousel2-md.jpg) top center no-repeat;
+        background: url(../../images/ca4-md.png) top center no-repeat;
     }
 }
 
@@ -191,12 +201,12 @@ ul.unstyled {
         height: 500px;
     }
     #slide1 {
-        background: url(../../images/c1.jpg) top center no-repeat;
+        background: url(../../images/ca1.jpg) top center no-repeat;
     }
     #slide2 {
-        background: url(../../images/carousel3.jpg) top center no-repeat;
+        background: url(../../images/ca3.jpg) top center no-repeat;
     }
     #slide3 {
-        background: url(../../images/carousel2.jpg) top center no-repeat;
+        background: url(../../images/ca4.png) top center no-repeat;
     }
 }
